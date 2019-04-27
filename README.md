@@ -38,9 +38,6 @@ REACT_APP_FIREBASE_STORAGE_BUCKET
 REACT_APP_FIREBASE_SENDER_ID
 ```
 
-![firebase](https://image.ibb.co/maGOnS/image.png)
-
-
 **Google Analytics**
 ```
 REACT_APP_GA_TRACKING_NUMBER  # Google Analytics tracking number
